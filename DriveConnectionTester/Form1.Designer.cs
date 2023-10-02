@@ -114,6 +114,7 @@
             // 
             // Form1
             // 
+            this.AcceptButton = this.startButton;
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(429, 231);
             this.Controls.Add(this.groupBox2);
